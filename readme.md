@@ -7,10 +7,10 @@ project setup. It uses Django and MySQL.
 Running Requirements
 ====================
 
-* Fig
-* Docker
+* [Fig](http://orchardup.github.io/fig/)
+* [Docker](http://docs.docker.io/en/latest/installation/ubuntulinux/)
 
-These two requirements must be setup and are outside the scope of this readme.
+These two requirements must be setup and are outside the scope of this readme. The links above are a good starting place.
 
 Start Fig
 =========
