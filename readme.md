@@ -1,4 +1,4 @@
-Django + MySQL + Fig Example
+Django + MySQL + Fig = Example
 ============================
 
 This project is a simple example of a [Fig](http://orchardup.github.io/fig/)
